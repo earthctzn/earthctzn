@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## [Coding Blog Posts 📝](https://earthctzn.medium.com/)
+
 <!--
 **earthctzn/earthctzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
