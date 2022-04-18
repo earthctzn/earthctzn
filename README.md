@@ -1,7 +1,5 @@
 
-[![caleb.biz](https://user-images.githubusercontent.com/48991697/148399913-56d4060c-ab27-45f2-830d-f7b3a74e9453.png)](https://caleb.biz)
 
-## [📝 Coding Blog Posts](https://earthctzn.medium.com/)
 
 <!--
 **earthctzn/earthctzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
